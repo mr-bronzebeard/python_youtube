@@ -69,22 +69,7 @@ def get_rating_by_group_id_videos(str_id):
 
 
 def main():
-    tmp = {}
     get_token_json()
-    # request = youtube.channels().list(
-    #   part="snippet,contentDetails,statistics",
-    #  mine=True
-    # )
-    # response = request.execute()
-
-    # tmp['items'] = response['items']
-
-    # print(tmp['items'][0]['snippet']['thumbnails']['medium']['url'])
-
-    search("kuplinov")
-
-    # print(data['items']['snippet']['title'])
-    # print(response)
 
 
 if __name__ == "__main__":
