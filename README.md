@@ -20,3 +20,8 @@ What I want to implement:
   - add video to your channel
   - adding comments to the video
   - Like, Dislike, Report Video
+  
+Please do not judge strictly.
+I understand that I have a lot of mistakes and stupidities.
+I would be glad if you tell me how to do better.
+I am at the beginning of my way :)
